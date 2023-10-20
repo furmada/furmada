@@ -1,5 +1,5 @@
-Hello, I'm Adam Furman, currently a Master's student at Oxford University.
+Hello, I'm Adam Furman, a graduate student and researcher.
 
 Find out more on my [website](https://www.adamfurman.sk).
 
-This GitHub contains some older personal projects and other code related to my research.
+This GitHub contains some older personal projects, and newer code related to my research.
